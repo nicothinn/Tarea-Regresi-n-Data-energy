@@ -1,0 +1,7 @@
+# Solo se versiona el notebook ejecutado (+ este README y el propio .gitignore).
+# Todo lo demas queda local: fuente, pdfs, papers, gif, datos.
+*
+!*/
+!README.md
+!.gitignore
+!src/Tareas/Tarea_1/Problema_Regresion_DataEnergy_EJECUTADO.ipynb
